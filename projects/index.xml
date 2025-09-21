@@ -1,26 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Projects on ChristianWeb</title>
-    <link>https://cristiannainggolan1.github.io/tian.github.io/projects/</link>
-    <description>Recent content in Projects on ChristianWeb</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 21 Sep 2025 00:03:44 +0700</lastBuildDate>
-    <atom:link href="https://cristiannainggolan1.github.io/tian.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>ChristianNainggolan</title>
-      <link>https://cristiannainggolan1.github.io/tian.github.io/projects/moreaboutme/</link>
-      <pubDate>Sun, 21 Sep 2025 00:03:44 +0700</pubDate>
-      <guid>https://cristiannainggolan1.github.io/tian.github.io/projects/moreaboutme/</guid>
-      <description>&lt;h1 id=&#34;-halo-saya-christian-nainggolan&#34;&gt;👋 Halo, Saya Christian Nainggolan&lt;/h1&gt;&#xA;&lt;p&gt;Selamat datang di halaman perkenalan saya.&lt;br&gt;&#xA;Saya adalah seorang &lt;strong&gt;penggiat teknologi&lt;/strong&gt; yang memiliki ketertarikan besar pada dunia &lt;strong&gt;pengembangan web, jaringan komputer, serta otomasi sistem&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-tentang-saya&#34;&gt;✨ Tentang Saya&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;📍 Berdomisili di Indonesia.&lt;/li&gt;&#xA;&lt;li&gt;🎓 Latar belakang pendidikan di bidang &lt;strong&gt;Teknologi Informasi&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;💻 Aktif membangun project berbasis &lt;strong&gt;web development&lt;/strong&gt;, &lt;strong&gt;jaringan&lt;/strong&gt;, dan &lt;strong&gt;sistem server pribadi&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;🚀 Memiliki hobi belajar hal baru terutama terkait &lt;strong&gt;open-source&lt;/strong&gt; dan &lt;strong&gt;cloud computing&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-motivasi&#34;&gt;🎯 Motivasi&lt;/h2&gt;&#xA;&lt;p&gt;Saya percaya teknologi dapat:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ChristianNainggolan</title>
-      <link>https://cristiannainggolan1.github.io/tian.github.io/projects/projectcisco/</link>
-      <pubDate>Sun, 21 Sep 2025 00:03:44 +0700</pubDate>
-      <guid>https://cristiannainggolan1.github.io/tian.github.io/projects/projectcisco/</guid>
-      <description>&lt;h1 id=&#34;-project-cisco-packet-tracer&#34;&gt;📡 Project Cisco Packet Tracer&lt;/h1&gt;&#xA;&lt;h2 id=&#34;-pendahuluan&#34;&gt;📘 Pendahuluan&lt;/h2&gt;&#xA;&lt;p&gt;Cisco Packet Tracer adalah software simulasi jaringan yang dikembangkan oleh Cisco Systems.&lt;br&gt;&#xA;Project ini dibuat untuk memahami konsep dasar jaringan komputer, konfigurasi perangkat, dan penerapan topologi dalam skala kecil hingga menengah.&lt;/p&gt;&#xA;&lt;p&gt;Tujuan dari project ini:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Memahami dasar topologi jaringan.&lt;/li&gt;&#xA;&lt;li&gt;Melatih konfigurasi router, switch, dan end-device.&lt;/li&gt;&#xA;&lt;li&gt;Mempelajari konsep IP addressing, VLAN, routing, serta keamanan jaringan.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-perangkat-yang-digunakan&#34;&gt;🛠️ Perangkat yang Digunakan&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Router&lt;/strong&gt; : Cisco 2911&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Switch&lt;/strong&gt; : Cisco 2960&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;End Devices&lt;/strong&gt; : PC, Laptop, Server&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Media&lt;/strong&gt; : Kabel Straight-through, Cross-over, Serial DCE/DTE&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-desain-topologi&#34;&gt;🌐 Desain Topologi&lt;/h2&gt;&#xA;&lt;p&gt;Topologi yang digunakan dalam project ini adalah &lt;strong&gt;Star Topology dengan beberapa VLAN&lt;/strong&gt;.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on ChristianWeb</title><link>https://cristiannainggolan1.github.io/tian.github.io/projects/</link><description>Recent content in Projects on ChristianWeb</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 21 Sep 2025 00:03:44 +0700</lastBuildDate><atom:link href="https://cristiannainggolan1.github.io/tian.github.io/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>ChristianNainggolan</title><link>https://cristiannainggolan1.github.io/tian.github.io/projects/moreaboutme/</link><pubDate>Sun, 21 Sep 2025 00:03:44 +0700</pubDate><guid>https://cristiannainggolan1.github.io/tian.github.io/projects/moreaboutme/</guid><description>&lt;h1 id="-halo-saya-christian-nainggolan"&gt;👋 Halo, Saya Christian Nainggolan&lt;/h1&gt;
+&lt;p&gt;Selamat datang di halaman perkenalan saya.&lt;br&gt;
+Saya adalah seorang &lt;strong&gt;penggiat teknologi&lt;/strong&gt; yang memiliki ketertarikan besar pada dunia &lt;strong&gt;pengembangan web, jaringan komputer, serta otomasi sistem&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="-tentang-saya"&gt;✨ Tentang Saya&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📍 Berdomisili di Indonesia.&lt;/li&gt;
+&lt;li&gt;🎓 Latar belakang pendidikan di bidang &lt;strong&gt;Teknologi Informasi&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;💻 Aktif membangun project berbasis &lt;strong&gt;web development&lt;/strong&gt;, &lt;strong&gt;jaringan&lt;/strong&gt;, dan &lt;strong&gt;sistem server pribadi&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;🚀 Memiliki hobi belajar hal baru terutama terkait &lt;strong&gt;open-source&lt;/strong&gt; dan &lt;strong&gt;cloud computing&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-motivasi"&gt;🎯 Motivasi&lt;/h2&gt;
+&lt;p&gt;Saya percaya teknologi dapat:&lt;/p&gt;</description></item><item><title>ChristianNainggolan</title><link>https://cristiannainggolan1.github.io/tian.github.io/projects/projectcisco/</link><pubDate>Sun, 21 Sep 2025 00:03:44 +0700</pubDate><guid>https://cristiannainggolan1.github.io/tian.github.io/projects/projectcisco/</guid><description>&lt;h1 id="-project-cisco-packet-tracer"&gt;📡 Project Cisco Packet Tracer&lt;/h1&gt;
+&lt;h2 id="-pendahuluan"&gt;📘 Pendahuluan&lt;/h2&gt;
+&lt;p&gt;Cisco Packet Tracer adalah software simulasi jaringan yang dikembangkan oleh Cisco Systems.&lt;br&gt;
+Project ini dibuat untuk memahami konsep dasar jaringan komputer, konfigurasi perangkat, dan penerapan topologi dalam skala kecil hingga menengah.&lt;/p&gt;
+&lt;p&gt;Tujuan dari project ini:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Memahami dasar topologi jaringan.&lt;/li&gt;
+&lt;li&gt;Melatih konfigurasi router, switch, dan end-device.&lt;/li&gt;
+&lt;li&gt;Mempelajari konsep IP addressing, VLAN, routing, serta keamanan jaringan.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-perangkat-yang-digunakan"&gt;🛠️ Perangkat yang Digunakan&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Router&lt;/strong&gt; : Cisco 2911&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Switch&lt;/strong&gt; : Cisco 2960&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;End Devices&lt;/strong&gt; : PC, Laptop, Server&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media&lt;/strong&gt; : Kabel Straight-through, Cross-over, Serial DCE/DTE&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-desain-topologi"&gt;🌐 Desain Topologi&lt;/h2&gt;
+&lt;p&gt;Topologi yang digunakan dalam project ini adalah &lt;strong&gt;Star Topology dengan beberapa VLAN&lt;/strong&gt;.&lt;/p&gt;</description></item></channel></rss>
